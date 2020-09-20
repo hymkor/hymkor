@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/zetamatta?label=Follow&style=social)](https://github.com/zetamatta)
 
-- Go/Lua/.NET/C++/Oracle developer
+- Go/Lua/.NET/C++/Oracle/CAD developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetamatta&hide=html)
 ![zetamatta's github stats](https://github-readme-stats.vercel.app/api?username=zetamatta&show_icons=true&count_private=true&line_height=40)
@@ -11,7 +11,7 @@
 
 - Hybrid Commandline Shells
     - "[NYAOS-3000](https://github.com/zetamatta/nyaos3000)" (C++,Archived)
-    - "[NYAGOS](https://github.com/zetamatta/nyagos/)" (Go)
+    - "[NYAGOS](https://github.com/zetamatta/nyagos/)" (Go,New Generation)
 - [Expect for Windows](https://github.com/zetamatta/expect)
 - TUI Tools
     - [cure](https://github.com/zetamatta/cure)
@@ -21,7 +21,7 @@
 - Windows API wrappers for Go
     - [go-windows-consoleicon](https://github.com/zetamatta/go-windows-consoleicon)
     - [go-windows-dbg](https://github.com/zetamatta/go-windows-dbg)
-        .. OutputDebugString for Windows
+        .. OutputDebugString like VC++
     - [go-windows-fileid](https://github.com/zetamatta/go-windows-fileid)
         .. Query file-id (i-node number on Windows)
     - [go-windows-junction](https://github.com/zetamatta/go-windows-junction)
