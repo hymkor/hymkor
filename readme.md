@@ -27,6 +27,8 @@
         .. Simple CSV viewer/editor
     - [tmt](https://github.com/zetamatta/tmt)
         .. Twitter Client
+    - [binview](https://github.com/zetamatta/binview)
+        .. Binary Data view
 - Windows API wrappers for Go
     - [go-windows-consoleicon](https://github.com/zetamatta/go-windows-consoleicon)
     - [go-windows-dbg](https://github.com/zetamatta/go-windows-dbg)
