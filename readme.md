@@ -51,3 +51,8 @@
         .. Do/Query SUBST
     - [go-windows10-ansi](https://github.com/zetamatta/go-windows10-ansi)
         .. Enable Windows10's native ansi-escape-sequences
+- Class library ?
+    - [go-pipeline](https://github.com/zetamatta/go-pipeline)
+        .. channel + goroutine -> pipeline
+    - [go-lazy](https://github.com/zetamatta/go-lazy)
+        .. lazy initialization
