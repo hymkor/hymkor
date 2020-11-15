@@ -59,3 +59,5 @@
         .. channel + goroutine -> pipeline
     - [go-lazy](https://github.com/zetamatta/go-lazy)
         .. lazy initialization
+    - [go-readline-ny](https://github.com/zetamatta/go-readline-ny)
+        .. readline library used on nyagos
