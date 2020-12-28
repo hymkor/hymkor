@@ -22,6 +22,8 @@
         .. Send CSV from STDIN to Excel
     - [makefile2batch](https://github.com/zetamatta/makefile2batch)
         .. Convert Makefile to batchfile
+    - [vo](https://github.com/zetamatta/vo)
+        .. Visual-studio client for command-line Operation
 - TUI Tools
     - [cure](https://github.com/zetamatta/cure)
         .. Color-Unicoded moRE
