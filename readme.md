@@ -17,13 +17,17 @@
     - "[NYAOS-3000](https://github.com/zetamatta/nyaos3000)" .. The 3rd Generation Shell for Windows &amp; OS/2 by C++,2010-2014
     - "[**NYAGOS**](https://github.com/zetamatta/nyagos/)" .. The 4th Generation Shell for Windows &amp; Linux by Go,2014-Now
 - CUI Tools
-    - [**Expect for Windows**](https://github.com/zetamatta/expect)
+    - [**Expect.lua for Windows**](https://github.com/zetamatta/expect)
     - [pipe2excel](https://github.com/zetamatta/pipe2excel)
         .. Send CSV from STDIN to Excel
     - [makefile2batch](https://github.com/zetamatta/makefile2batch)
         .. Convert Makefile to batchfile
     - [vo](https://github.com/zetamatta/vo)
         .. Visual-studio client for command-line Operation
+    - [zar](https://github.com/zetamatta/zar)
+        .. tarlike zip-clone
+    - [xnhttpd](https://github.com/zetamatta/xnhttpd)
+        .. CGI Server / MarkdownViewer / Lua Application Server
 - TUI Tools
     - [cure](https://github.com/zetamatta/cure)
         .. Color-Unicoded moRE
@@ -56,10 +60,14 @@
         .. Enable Windows10's native ansi-escape-sequences
     - [go-windows-consoleicon](https://github.com/zetamatta/go-windows-consoleicon)
         .. Set icon to the corner of the current console (Command Prompt)
+    - [go-windows-commandline](https://github.com/zetamatta/go-windows-commandline)
+        .. Get the raw command-line as is
 - Class library ?
+    - [**go-readline-ny**](https://github.com/zetamatta/go-readline-ny)
+        .. readline library used on nyagos
     - [go-pipeline](https://github.com/zetamatta/go-pipeline)
-        .. channel + goroutine -> pipeline
+        .. channel + goroutine -&gt; pipeline
     - [go-lazy](https://github.com/zetamatta/go-lazy)
         .. lazy initialization
-    - [go-readline-ny](https://github.com/zetamatta/go-readline-ny)
-        .. readline library used on nyagos
+    - [go-enex](https://github.com/zetamatta/go-enex)
+        .. Convert Evernote's export file(*.enex) into HTML and images
