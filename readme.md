@@ -28,6 +28,10 @@
         .. tarlike zip-clone
     - [xnhttpd](https://github.com/zetamatta/xnhttpd)
         .. CGI Server / MarkdownViewer / Lua Application Server
+    - [richcsv2poor](https://github.com/zetamatta/richcsv2poor)
+        .. Delimter replacer for AWK ( `,` NOT enclosed with `"~"` to `\v`, and `\n` NOT enclosed with `"~"` to `\f` )
+    - [seek](https://github.com/zetamatta/seek)
+        .. Color-grep for ansi/utf8
 - TUI Tools
     - [cure](https://github.com/zetamatta/cure)
         .. Color-Unicoded moRE
