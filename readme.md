@@ -1,13 +1,13 @@
-### zetamatta
+### hymkor (HAYAMA\_Kaoru)
 
-[![Github](https://img.shields.io/github/followers/zetamatta?label=Follow&style=social)](https://github.com/zetamatta)
+[![Github](https://img.shields.io/github/followers/hymkor?label=Follow&style=social)](https://github.com/hymkor)
 
 - A Go/Lua/.NET/C++/Oracle/CAD programmer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetamatta&hide=html)
-![zetamatta's github stats](https://github-readme-stats.vercel.app/api?username=zetamatta&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hymkor&hide=html)
+![hymkor's github stats](https://github-readme-stats.vercel.app/api?username=hymkor&show_icons=true&count_private=true&line_height=40)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zetamatta&column=7)](https://github.com/zetamatta/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hymkor&column=7)](https://github.com/hymkor/github-profile-trophy)
 
 #### Products
 
@@ -17,42 +17,42 @@
     - "[NYAOS-3000](https://github.com/nyaosorg/nyaos3000)" .. The 3rd Generation Shell for Windows &amp; OS/2 by C++,2010-2014
     - "[**NYAGOS**](https://github.com/nyaosorg/nyagos/)" .. The 4th Generation Shell for Windows &amp; Linux by Go,2014-Now
 - CUI Tools
-    - [**Expect.lua for Windows**](https://github.com/zetamatta/expect)
-    - [pipe2excel](https://github.com/zetamatta/pipe2excel)
+    - [**Expect.lua for Windows**](https://github.com/hymkor/expect)
+    - [pipe2excel](https://github.com/hymkor/pipe2excel)
         .. Send CSV from STDIN to Excel
-    - [makefile2batch](https://github.com/zetamatta/makefile2batch)
+    - [makefile2batch](https://github.com/hymkor/makefile2batch)
         .. Convert Makefile to batchfile
-    - [vo](https://github.com/zetamatta/vo)
+    - [vo](https://github.com/hymkor/vo)
         .. Visual-studio client for command-line Operation
-    - [zar](https://github.com/zetamatta/zar)
+    - [zar](https://github.com/hymkor/zar)
         .. tarlike zip-clone
-    - [xnhttpd](https://github.com/zetamatta/xnhttpd)
+    - [xnhttpd](https://github.com/hymkor/xnhttpd)
         .. CGI Server / MarkdownViewer / Lua Application Server
-    - [richcsv2poor](https://github.com/zetamatta/richcsv2poor)
+    - [richcsv2poor](https://github.com/hymkor/richcsv2poor)
         .. Delimter replacer for AWK ( `,` NOT enclosed with `"~"` to `\v`, and `\n` NOT enclosed with `"~"` to `\f` )
-    - [seek](https://github.com/zetamatta/seek)
+    - [seek](https://github.com/hymkor/seek)
         .. Color-grep for ansi/utf8
 - TUI Tools
-    - [cure](https://github.com/zetamatta/cure)
+    - [cure](https://github.com/hymkor/cure)
         .. Color-Unicoded moRE
-    - [csview](https://github.com/zetamatta/csview)
+    - [csview](https://github.com/hymkor/csview)
         .. Simple CSV viewer/editor
-    - [tmt](https://github.com/zetamatta/tmt)
+    - [tmt](https://github.com/hymkor/tmt)
         .. Twitter Client
-    - [**binview**](https://github.com/zetamatta/binview)
+    - [**binview**](https://github.com/hymkor/binview)
         .. Binary Data view
 - Windows API wrappers for Go
     - [go-windows-mbcs](https://github.com/nyaosorg/go-windows-mbcs)
         .. Convert between ANSI and UTF8
     - [go-windows-dbg](https://github.com/nyaosorg/go-windows-dbg)
         .. OutputDebugString like VC++
-    - [go-windows-fileid](https://github.com/zetamatta/go-windows-fileid)
+    - [go-windows-fileid](https://github.com/hymkor/go-windows-fileid)
         .. Query file-id (i-node number on Windows)
     - [go-windows-junction](https://github.com/nyaosorg/go-windows-junction)
         .. Create Junction (mklink /J)
     - [go-windows-netresource](https://github.com/nyaosorg/go-windows-netresource)
         .. Create/Query Network Drives
-    - [go-windows-osversion](https://github.com/zetamatta/go-windows-osversion)
+    - [go-windows-osversion](https://github.com/hymkor/go-windows-osversion)
         .. Query Windows's version
     - [go-windows-shortcut](https://github.com/nyaosorg/go-windows-shortcut)
         .. Create/Query Windows' shortcut
@@ -60,7 +60,7 @@
         .. Switch or test Windows' administrator mode
     - [go-windows-subst](https://github.com/nyaosorg/go-windows-subst)
         .. Do/Query SUBST
-    - [go-windows10-ansi](https://github.com/zetamatta/go-windows10-ansi)
+    - [go-windows10-ansi](https://github.com/hymkor/go-windows10-ansi)
         .. Enable Windows10's native ansi-escape-sequences
     - [go-windows-consoleicon](https://github.com/nyaosorg/go-windows-consoleicon)
         .. Set icon to the corner of the current console (Command Prompt)
@@ -69,9 +69,9 @@
 - Class library ?
     - [**go-readline-ny**](https://github.com/nyaosorg/go-readline-ny)
         .. readline library used on nyagos
-    - [go-pipeline](https://github.com/zetamatta/go-pipeline)
+    - [go-pipeline](https://github.com/hymkor/go-pipeline)
         .. channel + goroutine -&gt; pipeline
-    - [go-lazy](https://github.com/zetamatta/go-lazy)
+    - [go-lazy](https://github.com/hymkor/go-lazy)
         .. lazy initialization
-    - [go-enex](https://github.com/zetamatta/go-enex)
+    - [go-enex](https://github.com/hymkor/go-enex)
         .. Convert Evernote's export file(*.enex) into HTML and images
