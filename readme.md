@@ -71,7 +71,12 @@
         .. readline library used on nyagos
     - [go-pipeline](https://github.com/hymkor/go-pipeline)
         .. channel + goroutine -&gt; pipeline
-    - [go-lazy](https://github.com/hymkor/go-lazy)
-        .. lazy initialization
     - [go-enex](https://github.com/hymkor/go-enex)
         .. Convert Evernote's export file(*.enex) into HTML and images
+- Generics library
+    - [go-lazy](https://github.com/hymkor/go-lazy)
+        .. Lazy initialization
+    - [go-sortedkeys](https://github.com/hymkor/go-sortedkeys)
+        .. Sorted keys and values iterator
+    - [go-iterator](https://github.com/hymkor/go-iterator)
+        .. Factory for general iterators
