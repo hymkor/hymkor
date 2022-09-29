@@ -19,6 +19,7 @@
     - "[NYAOS-3000](https://github.com/nyaosorg/nyaos3000)" .. The 3rd Generation Shell for Windows &amp; OS/2 by C++,2010-2014
     - "[**NYAGOS**](https://github.com/nyaosorg/nyagos/)" .. The 4th Generation Shell for Windows &amp; Linux by Go,2014-Now
 - CUI Tools
+    - [SMake (Make by S-expression)](https://github.com/hymkor/smake)
     - [**Expect.lua for Windows**](https://github.com/hymkor/expect)
     - [pipe2excel](https://github.com/hymkor/pipe2excel)
         .. Send CSV from STDIN to Excel
