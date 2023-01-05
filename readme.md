@@ -11,6 +11,13 @@
 
 #### Products
 
+On Windows, some tools are able to be installed with [scoop-installer](https://scoop.sh).
+
+```
+$ scoop bucket add hymkor https://github.com/hymkor/scoop-repos
+$ scoop install NAME
+```
+
 - Language
     - "[gmnlisp](https://github.com/hymkor/gmnlisp)" ..  A small Lisp implementation in Go
 - Hybrid Commandline Shells
