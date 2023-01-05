@@ -11,7 +11,7 @@
 
 #### Products
 
-On Windows, some tools are able to be installed with [scoop-installer](https://scoop.sh).
+On Windows, [some tools](https://github.com/hymkor/scoop-repos#repositories) are able to be installed with [scoop-installer](https://scoop.sh).
 
 ```
 $ scoop bucket add hymkor https://github.com/hymkor/scoop-repos
