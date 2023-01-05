@@ -42,6 +42,8 @@ $ scoop install NAME
         .. Delimter replacer for AWK ( `,` NOT enclosed with `"~"` to `\v`, and `\n` NOT enclosed with `"~"` to `\f` )
     - [seek](https://github.com/hymkor/seek)
         .. Color-grep for ansi/utf8
+    - [log2web](https://github.com/hymkor/log2web)
+        .. Showing the last 1024 bytes of the logfile to web via http
 - TUI Tools
     - [cure](https://github.com/hymkor/cure)
         .. Color-Unicoded moRE
