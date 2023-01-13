@@ -11,7 +11,8 @@
 
 #### Products
 
-On Windows, [some tools](https://github.com/hymkor/scoop-bucket/blob/master/README.md#repositories) are able to be installed with [scoop-installer](https://scoop.sh).
+On Windows, some tools are able to be installed with [scoop-installer](https://scoop.sh).
+( See also [my scoop bucket](https://github.com/hymkor/scoop-bucket/blob/master/README.md#repositories) )
 
 ```
 $ scoop bucket add hymkor https://github.com/hymkor/scoop-bucket
