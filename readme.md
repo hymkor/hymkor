@@ -45,6 +45,14 @@ $ scoop install NAME
         .. Color-grep for ansi/utf8
     - [log2web](https://github.com/hymkor/log2web)
         .. Showing the last 1024 bytes of the logfile to web via http
+    - [uncozip](https://github.com/hymkor/uncozip)
+        .. UNzip COrrupted ZIP file that does not have the central directory records
+    - [sponge](https://github.com/hymkor/sponge)
+        .. sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
+    - [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest)
+        .. Make scoop manifest
+    - [SMake](https://github.com/hymkor/smake/)
+        .. Make by S-expression
 - TUI Tools
     - [cure](https://github.com/hymkor/cure)
         .. Color-Unicoded moRE
