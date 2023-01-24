@@ -51,8 +51,6 @@ $ scoop install NAME
         .. sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
     - [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest)
         .. Make scoop manifest
-    - [SMake](https://github.com/hymkor/smake/)
-        .. Make by S-expression
 - TUI Tools
     - [cure](https://github.com/hymkor/cure)
         .. Color-Unicoded moRE
