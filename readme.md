@@ -4,10 +4,11 @@
 
 - A Go/Lua/.NET/C++/Oracle/CAD programmer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hymkor&hide=html)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hymkor&hide=html)
 ![hymkor's github stats](https://github-readme-stats.vercel.app/api?username=hymkor&show_icons=true&count_private=true&line_height=40)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hymkor&column=7)](https://github.com/hymkor/github-profile-trophy)
+-->
 
 #### Products
 
