@@ -52,6 +52,8 @@ $ scoop install NAME
         .. sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
     - [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest)
         .. Make scoop manifest
+    - [fcopy](https://github.com/hymkor/fcopy)
+        .. Force to copy files even if they are using by other processes and/or the destination directories are protected
 - TUI Tools
     - [cure](https://github.com/hymkor/cure)
         .. Color-Unicoded moRE
