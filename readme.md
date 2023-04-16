@@ -28,6 +28,8 @@ $ scoop install NAME
     - "[NYAOS-3000](https://github.com/nyaosorg/nyaos3000)" .. The 3rd Generation Shell for Windows &amp; OS/2 by C++,2010-2014
     - "[**NYAGOS**](https://github.com/nyaosorg/nyagos/)" .. The 4th Generation Shell for Windows &amp; Linux by Go,2014-Now
 - CUI Tools
+    - [sqlbless](https://github.com/hymkor/sqlbless)
+        .. The Command-line Database Client
     - [SMake (Make by S-expression)](https://github.com/hymkor/smake)
     - [**Expect.lua for Windows**](https://github.com/hymkor/expect)
     - [pipe2excel](https://github.com/hymkor/pipe2excel)
@@ -95,6 +97,10 @@ $ scoop install NAME
         .. channel + goroutine -&gt; pipeline
     - [go-enex](https://github.com/hymkor/go-enex)
         .. Convert Evernote's export file(*.enex) into HTML and images
+    - [go-multiline-ny](https://github.com/hymkor/go-multiline-ny)
+        .. Readline package supporting multi-lines
+    - [go-dutf](https://github.com/hymkor/go-dutf)
+        .. The Implementation of DUTF encoder/decoder by the programming language Go
 - Generics library
     - [go-lazy](https://github.com/hymkor/go-lazy)
         .. Lazy initialization
@@ -102,3 +108,5 @@ $ scoop install NAME
         .. Sorted keys and values iterator
     - [go-iterator](https://github.com/hymkor/go-iterator)
         .. Factory for general iterators
+    - [go-minimum-optional](https://github.com/hymkor/go-minimum-optional)
+        .. The minimum `optional` package for golang
