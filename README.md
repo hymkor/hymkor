@@ -90,18 +90,18 @@ $ scoop install NAME
         .. Set icon to the corner of the current console (Command Prompt)
     - [go-windows-commandline](https://github.com/nyaosorg/go-windows-commandline)
         .. Get the raw command-line as is
-- Class library ?
+- Class library
     - [**go-readline-ny**](https://github.com/nyaosorg/go-readline-ny)
         .. readline library used on nyagos
-    - [go-pipeline](https://github.com/hymkor/go-pipeline)
-        .. channel + goroutine -&gt; pipeline
-    - [go-enex](https://github.com/hymkor/go-enex)
-        .. Convert Evernote's export file(*.enex) into HTML and images
     - [go-multiline-ny](https://github.com/hymkor/go-multiline-ny)
-        .. Readline package supporting multi-lines
+        .. Extended Readline package supporting multi-lines
     - [go-dutf](https://github.com/hymkor/go-dutf)
         .. The Implementation of DUTF encoder/decoder by the programming language Go
+    - [go-enex](https://github.com/hymkor/go-enex)
+        .. Convert Evernote's export file(*.enex) into HTML and images
 - Generics library
+    - [go-pipeline](https://github.com/hymkor/go-pipeline)
+        .. channel + goroutine -&gt; pipeline
     - [go-lazy](https://github.com/hymkor/go-lazy)
         .. Lazy initialization
     - [go-sortedkeys](https://github.com/hymkor/go-sortedkeys)
