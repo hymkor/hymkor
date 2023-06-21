@@ -84,8 +84,8 @@ $ scoop install NAME
         .. Switch or test Windows' administrator mode
     - [go-windows-subst](https://github.com/nyaosorg/go-windows-subst)
         .. Do/Query SUBST
-    - [go-windows10-ansi](https://github.com/hymkor/go-windows10-ansi)
-        .. Enable Windows10's native ansi-escape-sequences
+    - [go-windows1x-virtualterminal](https://github.com/hymkor/go-windows1x-virtualterminal)
+        .. Enables Windows10 and 11's native ESCAPE SEQUENCES and TERMINAL INPUTS
     - [go-windows-consoleicon](https://github.com/nyaosorg/go-windows-consoleicon)
         .. Set icon to the corner of the current console (Command Prompt)
     - [go-windows-commandline](https://github.com/nyaosorg/go-windows-commandline)
