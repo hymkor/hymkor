@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/hymkor?label=Follow&style=social)](https://github.com/hymkor)
 
-- A Go/Lua/.NET/C++/Oracle/CAD programmer
+- A Go/Lua/.NET/C++/Oracle/DWG-CAD programmer
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hymkor&hide=html)
 ![hymkor's github stats](https://github-readme-stats.vercel.app/api?username=hymkor&show_icons=true&count_private=true&line_height=40)
