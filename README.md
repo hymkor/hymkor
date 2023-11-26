@@ -50,10 +50,8 @@ $ scoop install NAME
         .. Showing the last 1024 bytes of the logfile to web via http
     - [uncozip](https://github.com/hymkor/uncozip)
         .. UNzip COrrupted ZIP file that does not have the central directory records
-    - [sponge](https://github.com/hymkor/sponge)
+    - [sponge](https://github.com/hymkor/sponge) [Go], [sponge-rs](https://github.com/hymkor/sponge-rs) [Rust]  
         .. sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
-    - [sponge-rs](https://github.com/hymkor/sponge-rs)
-        .. The Rust version of sponge clone for Windows
     - [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest)
         .. Make scoop manifest
     - [fcopy](https://github.com/hymkor/fcopy)
