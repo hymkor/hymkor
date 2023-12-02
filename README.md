@@ -42,8 +42,6 @@ $ scoop install NAME
         .. tarlike zip-clone
     - [xnhttpd](https://github.com/hymkor/xnhttpd)
         .. CGI Server / MarkdownViewer / Lua Application Server
-    - [richcsv2poor](https://github.com/hymkor/richcsv2poor)
-        .. Delimter replacer for AWK ( `,` NOT enclosed with `"~"` to `\v`, and `\n` NOT enclosed with `"~"` to `\f` )
     - [seek](https://github.com/hymkor/seek)
         .. Color-grep for ansi/utf8
     - [log2web](https://github.com/hymkor/log2web)
