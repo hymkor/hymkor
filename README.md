@@ -102,7 +102,5 @@ $ scoop install NAME
         .. Lazy initialization
     - [go-sortedkeys](https://github.com/hymkor/go-sortedkeys)
         .. Sorted keys and values iterator
-    - [go-iterator](https://github.com/hymkor/go-iterator)
-        .. Factory for general iterators
     - [go-minimum-optional](https://github.com/hymkor/go-minimum-optional)
         .. The minimum `optional` package for golang
