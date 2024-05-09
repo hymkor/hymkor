@@ -59,8 +59,6 @@ $ scoop install NAME
         .. Color-Unicoded moRE
     - [csview](https://github.com/hymkor/csview)
         .. Simple CSV viewer/editor
-    - [tmt](https://github.com/hymkor/tmt)
-        .. Twitter Client
     - [**binview**](https://github.com/hymkor/binview)
         .. Binary Data view
 - Windows API wrappers for Go
