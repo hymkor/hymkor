@@ -51,7 +51,7 @@ $ scoop install NAME
     - [sponge](https://github.com/hymkor/sponge) [Go], [sponge-rs](https://github.com/hymkor/sponge-rs) [Rust]  
         .. sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
     - [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest)
-        .. Make scoop manifest
+        .. Make the manifest file for the scoop-installer
     - [fcopy](https://github.com/hymkor/fcopy)
         .. Force to copy files even if they are using by other processes and/or the destination directories are protected
 - TUI Tools
