@@ -96,7 +96,7 @@ $ scoop install NAME
     - [go-dutf](https://github.com/hymkor/go-dutf)
         .. The Implementation of DUTF encoder/decoder by the programming language Go
     - [go-enex](https://github.com/hymkor/go-enex)
-        .. Convert Evernote's export file(*.enex) into HTML and images
+        .. Convert Evernote's export file(\*.enex) into HTML and images
 - Generics library
     - [go-pipeline](https://github.com/hymkor/go-pipeline)
         .. channel + goroutine -&gt; pipeline
