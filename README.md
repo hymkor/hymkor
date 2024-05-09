@@ -57,10 +57,10 @@ $ scoop install NAME
 - TUI Tools
     - [cure](https://github.com/hymkor/cure)
         .. Color-Unicoded moRE
-    - [**binview**](https://github.com/hymkor/binview)
-        .. Binary Data view
     - [csvi](https://github.com/hymkor/csvi)
         .. Terminal CSV editor
+    - [binview](https://github.com/hymkor/binview)
+        .. Terminal Binary editor
 - Windows API wrappers for Go
     - [go-windows-mbcs](https://github.com/nyaosorg/go-windows-mbcs)
         .. Convert between ANSI and UTF8
