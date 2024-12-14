@@ -27,11 +27,17 @@ $ scoop install NAME
     - "[NYAOS-2000](https://github.com/nyaosorg/nyaos2000)" .. The 2nd Generation Shell for DOS,Windows &amp; OS/2 by C++,2001-2010
     - "[NYAOS-3000](https://github.com/nyaosorg/nyaos3000)" .. The 3rd Generation Shell for Windows &amp; OS/2 by C++,2010-2014
     - "[**NYAGOS**](https://github.com/nyaosorg/nyagos/)" .. The 4th Generation Shell for Windows &amp; Linux by Go,2014-Now
+- Text-terminal automation tools similar to expect(1) 
+    - [Expect-lua for Windows](https://github.com/hymkor/expect)
+        .. Using GopherLua as script and ReadConsoleOutputW. Supporting Windows 7 or later
+    - [Lispect](https://github.com/hymkor/lispect)
+        .. Using the subset of ISLisp as script and PsudoConsole. Supporting Linux and Windows10 or later
 - CUI Tools
+    - [script.exe](https://github.com/hymkor/script)
+        .. Make typescript of terminal session like that of Linux for Windows10 or later 
     - [sqlbless](https://github.com/hymkor/sqlbless)
         .. The Command-line Database Client
     - [SMake (Make by S-expression)](https://github.com/hymkor/smake)
-    - [**Expect.lua for Windows**](https://github.com/hymkor/expect)
     - [pipe2excel](https://github.com/hymkor/pipe2excel)
         .. Send CSV from STDIN to Excel
     - [makefile2batch](https://github.com/hymkor/makefile2batch)
