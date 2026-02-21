@@ -1,4 +1,4 @@
-### hymkor (HAYAMA\_Kaoru)
+### HAYAMA\_Kaoru (hymkor) a.k.a zetamatta
 
 [![Github](https://img.shields.io/github/followers/hymkor?label=Follow&style=social)](https://github.com/hymkor)
 
@@ -27,6 +27,13 @@ $ scoop install NAME
     - "[NYAOS-2000](https://github.com/nyaosorg/nyaos2000)" .. The 2nd Generation Shell for DOS,Windows &amp; OS/2 by C++,2001-2010
     - "[NYAOS-3000](https://github.com/nyaosorg/nyaos3000)" .. The 3rd Generation Shell for Windows &amp; OS/2 by C++,2010-2014
     - "[**NYAGOS**](https://github.com/nyaosorg/nyagos/)" .. The 4th Generation Shell for Windows &amp; Linux by Go,2014-Now
+- TUI Tools
+    - [Csvi](https://github.com/hymkor/csvi)
+        .. A terminal CSV editor
+    - [Bine](https://github.com/hymkor/bine)
+        .. A terminal Binary editor
+    - [Cure](https://github.com/hymkor/cure)
+        .. Color-Unicoded moRE
 - Text-terminal automation tools similar to expect(1) 
     - [Expect-lua for Windows](https://github.com/hymkor/expect)
         .. Using GopherLua as script and ReadConsoleOutputW. Supporting Windows 7 or later
@@ -42,8 +49,6 @@ $ scoop install NAME
         .. Send CSV from STDIN to Excel
     - [makefile2batch](https://github.com/hymkor/makefile2batch)
         .. Convert Makefile to batchfile
-    - [vo](https://github.com/hymkor/vo)
-        .. Visual-studio client for command-line Operation
     - [zar](https://github.com/hymkor/zar)
         .. tarlike zip-clone
     - [xnhttpd](https://github.com/hymkor/xnhttpd)
@@ -60,13 +65,6 @@ $ scoop install NAME
         .. Make the manifest file for the scoop-installer
     - [fcopy](https://github.com/hymkor/fcopy)
         .. Force to copy files even if they are using by other processes and/or the destination directories are protected
-- TUI Tools
-    - [cure](https://github.com/hymkor/cure)
-        .. Color-Unicoded moRE
-    - [csvi](https://github.com/hymkor/csvi)
-        .. Terminal CSV editor
-    - [binview](https://github.com/hymkor/binview)
-        .. Terminal Binary editor
 - Windows API wrappers for Go
     - [go-windows-mbcs](https://github.com/nyaosorg/go-windows-mbcs)
         .. Convert between ANSI and UTF8
@@ -97,8 +95,6 @@ $ scoop install NAME
         .. readline library used on nyagos
     - [go-multiline-ny](https://github.com/hymkor/go-multiline-ny)
         .. Extended Readline package supporting multi-lines
-    - [go-dutf](https://github.com/hymkor/go-dutf)
-        .. The Implementation of DUTF encoder/decoder by the programming language Go
     - [go-enex](https://github.com/hymkor/go-enex)
         .. Convert Evernote's export file(\*.enex) into HTML and images
 - Generics library
@@ -106,7 +102,6 @@ $ scoop install NAME
         .. channel + goroutine -&gt; pipeline
     - [go-lazy](https://github.com/hymkor/go-lazy)
         .. Lazy initialization
-    - [go-sortedkeys](https://github.com/hymkor/go-sortedkeys)
-        .. Sorted keys and values iterator
     - [go-minimum-optional](https://github.com/hymkor/go-minimum-optional)
         .. The minimum `optional` package for golang
+
