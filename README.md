@@ -1,4 +1,4 @@
-### HAYAMA\_Kaoru (hymkor) a.k.a zetamatta
+# HAYAMA\_Kaoru (hymkor) a.k.a zetamatta
 
 [![Github](https://img.shields.io/github/followers/hymkor?label=Follow&style=social)](https://github.com/hymkor)
 
@@ -10,7 +10,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hymkor&column=7)](https://github.com/hymkor/github-profile-trophy)
 -->
 
-#### Products
+## Products
 
 On Windows, some tools are able to be installed with [scoop-installer](https://scoop.sh).
 ( See also [my scoop bucket](https://github.com/hymkor/scoop-bucket/blob/master/README.md#repositories) )
@@ -104,4 +104,5 @@ $ scoop install NAME
         .. Lazy initialization
     - [go-minimum-optional](https://github.com/hymkor/go-minimum-optional)
         .. The minimum `optional` package for golang
+
 
