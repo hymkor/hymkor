@@ -28,6 +28,8 @@ $ scoop install NAME
     - "[NYAOS-3000](https://github.com/nyaosorg/nyaos3000)" .. The 3rd Generation Shell for Windows &amp; OS/2 by C++,2010-2014
     - "[**NYAGOS**](https://github.com/nyaosorg/nyagos/)" .. The 4th Generation Shell for Windows &amp; Linux by Go,2014-Now
 - TUI Tools
+    - [Jegan](https://github.com/hymkor/jegan)
+        .. A terminal JSON editor  
     - [Csvi](https://github.com/hymkor/csvi)
         .. A terminal CSV editor
     - [Bine](https://github.com/hymkor/bine)
