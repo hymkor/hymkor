@@ -33,9 +33,9 @@ $ scoop install NAME
     - [Csvi](https://github.com/hymkor/csvi)
         .. A terminal CSV editor
     - [Bine](https://github.com/hymkor/bine)
-        .. A terminal Binary editor
+        .. A terminal hex editor
     - [Cure](https://github.com/hymkor/cure)
-        .. Color-Unicoded moRE
+        .. **C**olor-**u**nicoded mo**re**-like textfile pager
 - Text-terminal automation tools similar to expect(1) 
     - [Expect-lua for Windows](https://github.com/hymkor/expect)
         .. Using GopherLua as script and ReadConsoleOutputW. Supporting Windows 7 or later
