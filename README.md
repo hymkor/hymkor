@@ -17,7 +17,7 @@ On Windows, some tools are able to be installed with [scoop-installer](https://s
 
 ```
 $ scoop bucket add hymkor https://github.com/hymkor/scoop-bucket
-$ scoop install NAME
+$ scoop install hymkor/NAME
 ```
 
 - Language
@@ -33,9 +33,7 @@ $ scoop install NAME
     - [Csvi](https://github.com/hymkor/csvi)
         .. A terminal CSV editor
     - [Bine](https://github.com/hymkor/bine)
-        .. A terminal hex editor
-    - [Cure](https://github.com/hymkor/cure)
-        .. **C**olor-**u**nicoded mo**re**-like textfile pager
+        .. A terminal HEX editor
 - Text-terminal automation tools similar to expect(1) 
     - [Expect-lua for Windows](https://github.com/hymkor/expect)
         .. Using GopherLua as script and ReadConsoleOutputW. Supporting Windows 7 or later
@@ -46,52 +44,29 @@ $ scoop install NAME
         .. Make typescript of terminal session like that of Linux for Windows10 or later 
     - [sqlbless](https://github.com/hymkor/sqlbless)
         .. The Command-line Database Client
-    - [SMake (Make by S-expression)](https://github.com/hymkor/smake)
     - [pipe2excel](https://github.com/hymkor/pipe2excel)
         .. Send CSV from STDIN to Excel
-    - [makefile2batch](https://github.com/hymkor/makefile2batch)
-        .. Convert Makefile to batchfile
-    - [zar](https://github.com/hymkor/zar)
-        .. tarlike zip-clone
-    - [xnhttpd](https://github.com/hymkor/xnhttpd)
-        .. CGI Server / MarkdownViewer / Lua Application Server
-    - [seek](https://github.com/hymkor/seek)
-        .. Color-grep for ansi/utf8
-    - [log2web](https://github.com/hymkor/log2web)
-        .. Showing the last 1024 bytes of the logfile to web via http
     - [uncozip](https://github.com/hymkor/uncozip)
         .. UNzip COrrupted ZIP file that does not have the central directory records
     - [sponge](https://github.com/hymkor/sponge) [Go], [sponge-rs](https://github.com/hymkor/sponge-rs) [Rust]  
         .. sponge clone for Windows (Original: https://joeyh.name/code/moreutils/)
     - [make-scoop-manifest](https://github.com/hymkor/make-scoop-manifest)
         .. Make the manifest file for the scoop-installer
-    - [fcopy](https://github.com/hymkor/fcopy)
-        .. Force to copy files even if they are using by other processes and/or the destination directories are protected
 - Windows API wrappers for Go
     - [go-windows-mbcs](https://github.com/nyaosorg/go-windows-mbcs)
         .. Convert between ANSI and UTF8
     - [go-windows-dbg](https://github.com/nyaosorg/go-windows-dbg)
         .. OutputDebugString like VC++
-    - [go-windows-fileid](https://github.com/hymkor/go-windows-fileid)
-        .. Query file-id (i-node number on Windows)
     - [go-windows-junction](https://github.com/nyaosorg/go-windows-junction)
         .. Create Junction (mklink /J)
-    - [go-windows-netresource](https://github.com/nyaosorg/go-windows-netresource)
-        .. Create/Query Network Drives
-    - [go-windows-osversion](https://github.com/hymkor/go-windows-osversion)
-        .. Query Windows's version
     - [go-windows-shortcut](https://github.com/nyaosorg/go-windows-shortcut)
         .. Create/Query Windows' shortcut
     - [go-windows-su](https://github.com/nyaosorg/go-windows-su)
         .. Switch or test Windows' administrator mode
     - [go-windows-subst](https://github.com/nyaosorg/go-windows-subst)
         .. Do/Query SUBST
-    - [go-windows1x-virtualterminal](https://github.com/hymkor/go-windows1x-virtualterminal) [Go], [windows1x-virtualterminal-rs](https://github.com/hymkor/windows1x-virtualterminal-rs) [Rust]  
-        .. Enables Windows10 and 11's native ESCAPE SEQUENCES and TERMINAL INPUTS
     - [go-windows-consoleicon](https://github.com/nyaosorg/go-windows-consoleicon)
         .. Set icon to the corner of the current console (Command Prompt)
-    - [go-windows-commandline](https://github.com/nyaosorg/go-windows-commandline)
-        .. Get the raw command-line as is
 - Class library
     - [**go-readline-ny**](https://github.com/nyaosorg/go-readline-ny)
         .. readline library used on nyagos
@@ -104,7 +79,7 @@ $ scoop install NAME
         .. channel + goroutine -&gt; pipeline
     - [go-lazy](https://github.com/hymkor/go-lazy)
         .. Lazy initialization
-    - [go-minimum-optional](https://github.com/hymkor/go-minimum-optional)
-        .. The minimum `optional` package for golang
-
-
+    - [go-minimal-optional](https://github.com/hymkor/go-minimal-optional)
+        .. The minimal optional package for golang
+    - [go-generics-list](https://github.com/hymkor/go-generics-list)
+        .. The generics version of "container/list"
