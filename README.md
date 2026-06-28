@@ -83,3 +83,23 @@ $ scoop install hymkor/NAME
         .. The minimal optional package for golang
     - [go-generics-list](https://github.com/hymkor/go-generics-list)
         .. The generics version of "container/list"
+
+## Documents
+
+### Articles on zenn.dev
+
+- [Success! Making NYAGOS Speak Spontaneously](https://zenn.dev/zetamatta/articles/ukkari-talk-nyagos?locale=en)  
+- [Lazy-Style Character Encoding Detection for Go on Windows](https://zenn.dev/zetamatta/articles/mbcs-to-utf8-filter?locale=en)  
+- [sync.OnceValue: Lazy Initialization Function Introduced in Go 1.21.0](https://zenn.dev/zetamatta/articles/4afb2970e111c5?locale=en)
+- [Processing CSVs with Line Breaks in Fields Using gawk](https://zenn.dev/zetamatta/articles/ce42498310c183?locale=en)
+- [Command-Line Shell? Anyone Can Build One](https://zenn.dev/zetamatta/articles/d7b76ff6535d7d?locale=en)
+- [Supporting Older Go Versions Without Dropping the Latest: Coexistence Strategies](https://zenn.dev/zetamatta/articles/use-old-new-go?locale=en)
+- [Building a Terminal CSV Editor in Go for Combat in Production Environments](https://zenn.dev/zetamatta/articles/terminal-csv-editor?locale=en)
+- [Developing SQL-Bless: A Multi-DB Terminal Client in Go](https://zenn.dev/zetamatta/articles/sql-bless-note?locale=en)
+
+### Books on zenn.dev (Japanese)
+
+- [scoop / nyagos で始めるコマンドライン生活](https://zenn.dev/zetamatta/books/5ac80a9ddb35fef9a146)
+- [/bin/shに慣れた人に贈るバッチファイルの書き方](https://zenn.dev/zetamatta/books/c84cbe23093eee1b5830)
+- [Windows と Unicode とボク](https://zenn.dev/zetamatta/books/b820d588f4856bcf836c)
+- [君のレポジトリを領域展開 - 次世代バージョン管理システム Jujutsu (jj-vcs/jj)の世界](https://zenn.dev/zetamatta/books/c1e309aea68960)
